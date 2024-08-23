@@ -7,9 +7,23 @@ I am currently working as a Junior Software Engineer at TechnoNext (TechnoNext S
 
 
 ## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/hamidurrahmanjoy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hamidurrahmansarkerjoy) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/hamidurrahmanjoy) 
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/hamidurrahmanjoy)
+<a href="https://www.fiverr.com/seoexpertjoman" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/Fiverr-1DBF73.svg?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" height="20"/>
+</a>
+<a href="https://www.freelancer.com/u/hamidurrahmanjoy" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/Freelancer-66B2FF.svg?style=for-the-badge&logo=freelancer&logoColor=white" alt="Freelancer" height="20"/>
+</a>
+<a href="https://www.hackerrank.com/profile/hrsjoy_2001" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/HackerRank-2EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" height="20"/>
+</a>
 <a href="https://leetcode.com/u/hamidurrahman/" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/LeetCode-Profile-yellow.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" height="20"/>
+<img src="https://img.shields.io/badge/LeetCode-yellow.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" height="20"/>
+</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hamidurrahmansarkerjoy)
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/hamidurrahmanjoy)
+<a href="https://www.upwork.com/freelancers/~01a7a96db89c1d22bd" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/Upwork-6FDA44.svg?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" height="20"/>
 </a>
 
 ## 💻 Tech Stack:
